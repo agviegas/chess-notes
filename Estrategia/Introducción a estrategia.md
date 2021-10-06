@@ -1,0 +1,1 @@
+Mucha gente piensa que lo más importante en el ajedrez es encontrar grandes golpes tácticos. Es cierto que muchas partidas se ganan con golpes tácticos, pero éstos solo aparecen si se toman buenas decisiones estratégicas durante la partida. En otras palabras: **quien siembra estrategia, recoge táctica.**
