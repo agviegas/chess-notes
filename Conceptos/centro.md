@@ -13,10 +13,10 @@ El centro tiene una importancia fundamental porque es el punto de conexión entr
 
 ## Centro móvil
 
-🤚🛑🐪💨💨 Cuando una de las partes tiene un centro móvil, la otra parte tiene la responsabilidad inmediata de bloquearlo con el avance de sus propios peones.
+🤚🛑🐪💨💨 Normalmente, cuando una de las partes tiene un centro móvil, la otra parte tiene la responsabilidad de bloquearlo con el avance de sus propios peones. 
 
 <iframe width=100% height=500 src="https://lichess.org/study/embed/QU5fAUV4/8SJ51JNX?theme=blue" frameborder=0></iframe>
 
-🤚🛑🐪💨💨Ignorar un centro de peones móviles y no bloquearlo a tiempo puede llevar a victorias rápidas con castigos tácticos muy potentes. 
+🤕💥🐪💨💨💨💨Ignorar un centro de peones móviles y no bloquearlo a tiempo puede llevar a victorias rápidas con castigos tácticos muy potentes. Esto no ocurre el 100% de las veces, pero en muchos casos permite al jugador con el centro móvil ganar espacio y limitar mucho los movimientos del rival.
 
 <iframe width=100% height=500 src="https://lichess.org/study/embed/QU5fAUV4/S1miQnwG?theme=blue" frameborder=0></iframe>
