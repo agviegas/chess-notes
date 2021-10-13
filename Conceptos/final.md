@@ -2,7 +2,9 @@ Los finales o endgames son las fases del juego en las que no quedan muchas pieza
 
 👑🔄👑 En este punto es común que las reinas se hayan intercambiado.
 
-👑⚔👑 En muchas partidas  este es el momento de sacar a los reyes de sus refugios y llevarlos al [[centro]] del tablero para conseguir que los peones restantes puedan llegar al final.
+💪👶 Los peones ganan mucha fuerza porque hay menos piezas que bloqueen su avance.
+
+👑⚔👑 Los reyes también ganan mucha fuerza porque, al no haber reinas, pueden salir de sus refugios sin peligro de mate. En muchas partidas  este es el momento de sacar a los reyes de sus refugios y llevarlos al [[centro]] del tablero para conseguir que los peones restantes puedan llegar al final.
 
 🎭 Durante esta fase, el jugador con ventaja (posicional, material, etc) intentará simplificar la posición para acentuar su ventaja, mientras que el otro intentará complejizar la posición para buscar oportunidades tácticas que le permitan recuperarse. 
 
