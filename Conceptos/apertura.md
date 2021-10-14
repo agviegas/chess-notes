@@ -1,10 +1,15 @@
 # Introducción
-La apertura es la primera parte de cualquier partida de ajedrez. Tienen 4 objetivos básicos:
+La apertura es la primera parte de cualquier partida de ajedrez. 
+
+🤯🤯🤯 Las aperturas son un campo teórico inabarcable. Están muy estudiadas y muchos jugadores conocen cientos de líneas de memoria para llegar al medio juego con ventaja. Cuanto más aprendemos, más nos damos cuenta de lo poco que sabemos.
+
+🤔 Aunque es preciso conocer un repertorio de aperturas para jugar de forma efectiva, es más importante comprender las ideas detras de esos movimientos. De ese modo, aunque no nos sepamos todo de memoria, tendremos una base sólida para jugar correctamente cuando no sepamos la línea teórica en la que estamos, que será en la mayoría de casos.
+
+Tienen 3 objetivos básicos:
 
 1. Ocupación del [[centro]] (o influencia sobre él).  
 2. [[desarrollo]] rápido de piezas.  
 3. Protección del rey mediante el [[enroque]].
-4. Ganar espacio, consiguiendo mobilidad.
 
 Todo movimiento en una partida debe tener un propósito claro. Las aperturas son un campo muy teórico y memorístico del ajedrez, aunque todas comparten varias ideas posicionales. Antes de aprenderse varias aperturas de memoria conviene conocer los principios detrás de ellas.
 

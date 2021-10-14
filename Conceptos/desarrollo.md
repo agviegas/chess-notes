@@ -2,6 +2,10 @@
 
 🌰🌱🌳 Se denomina **desarrollo** a la mobilización de las piezas fuera de sus casillas iniciales. Es uno de los puntos clave de las [[apertura]].
 
+```
+Las piezas no hacen nada en sus posiciones iniciales. Conforme los jugadores las desarrollan van ganando potencia de ataque y de defensa. Generalmente, la apertura es una carrera por desarrollar piezas; si uno de los jugadores se queda atrás, las consecuencias pueden ser fatales.
+```
+
 🤷‍♀️ Un error común es desarrollar las piezas sin un plan previo. Este plan, generalmente, debe perseguir el control del [[centro]] y coordinarse con las estructuras de peones resultantes de esa lucha. 
 
 ```

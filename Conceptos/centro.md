@@ -1,6 +1,6 @@
 # Introducción
 
-El centro tiene una importancia fundamental porque es el punto de conexión entre los extremos el tablero. El jugador que domine el centro podrá movilizar sus piezas rápidamente y tendrá mayor agilidad para lanzar ataques en diferentes sitios.
+El centro tiene una importancia fundamental porque es el punto de conexión entre los extremos el tablero. 
 
 🐪 Se denomina **centro** a las 4 casillas centrales del tablero: `d4`, `d5`, `e4` y `e5`. 
 
@@ -10,6 +10,18 @@ El centro tiene una importancia fundamental porque es el punto de conexión entr
 
 <iframe  width=45% height=530 src="https://lichess.org/study/embed/QU5fAUV4/h7c5dTCP?theme=blue" frameborder=0></iframe>
 <iframe width=45% height=530 src="https://lichess.org/study/embed/QU5fAUV4/aK8NcctA?theme=blue" frameborder=0></iframe>
+
+```
+El jugador que domine el centro y coloque allí sus piezas:
+- Podrá movilizar sus piezas rápidamente a diferentes partes del tablero.
+- Controlará más casillas.
+```
+
+🐴❗❗ Generalmente las piezas en el centro se vuelven más poderosas. El máximo exponente de esto es el caballo, cuyo poder aumenta dramáticamente cuando se coloca en las casillas centrales porque ataca a muchas mas casillas.
+
+```
+🗼❗❓ La única pieza que no consigue ventaja de control por el mero hecho de estar en el centro es la torre, que controla las mismas casillas en un tablero vacío independientemente de su posición.
+```
 
 ## Centro móvil
 
