@@ -1,0 +1,1 @@
+Se denomina **zugzwang** a la situación en la que el jugador al que le toca mover no puede hacer ningún movimiento que no empeore su posición. Es común llegar a esto en las etapas de [[final]].
