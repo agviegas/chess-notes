@@ -1,0 +1,6 @@
+- [[Aperturas]]
+- [[Tácticas]] (por completar)
+- [[Evaluación y planes]]
+- [[Ataques]]
+- [[Juego de peones]]
+- [[Juego de piezas]] (por completar)

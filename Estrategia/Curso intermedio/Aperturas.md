@@ -2,7 +2,7 @@
 
 ## Bases de datos
 
-Al margen de teorías y buenas prácticas en el juego de [aperturas](Aperturas/aperturas), el aprendizaje de una apertura en concreto pasa por el estudio de las **mejores jugadas** para una posición determinada de una variación de la apertura. Estas jugadas son teoría de ajedrez, y las variaciones más repetidas están recogidas en bases de datos.
+Al margen de teorías y buenas prácticas en el juego de [aperturas](Conceptos/apertura), el aprendizaje de una apertura en concreto pasa por el estudio de las **mejores jugadas** para una posición determinada de una variación de la apertura. Estas jugadas son teoría de ajedrez, y las variaciones más repetidas están recogidas en bases de datos.
 
 El inicio de una partida puede desviarse de estos caminos teóricos conocidos rápidamente. Un jugador que se desvía de la teoría de su apertura lo hace por desconocimiento o por traer preparada de antemano una variación "sorpresa". Este vídeo recoge guías generales sobre el uso de bases de datos y el análisis de partidas.
 
