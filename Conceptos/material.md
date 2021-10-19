@@ -21,6 +21,8 @@ No solo se trata del número de piezas, ya que no todas las piezas en ajedrez va
 🚧🚧🚧 Mucho ojo, porque **este valor es relativo**. Es posible que haya partidas donde un alfil sea mucho más activo e importante que una reina. Se trata de valores orientativos.
 ```
 
+^c2652e
+
 Generalmente, cuando un jugador tiene **ventaja material**, una estrategia efectiva para ganar es intercambiar piezas del mismo valor para simplificar la posición y llegar al [[final]].
 
 ```

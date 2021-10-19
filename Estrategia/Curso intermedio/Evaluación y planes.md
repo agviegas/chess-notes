@@ -1,6 +1,6 @@
 # Cómo evaluar posiciones
 
-Durante el [[Estrategia/Curso intermedio/Aperturas#Análisis post-partida|análisis post-partida]], el ordenador asigna a cada posición una valoración numérica positiva si la ventaja es para blancas y negativa si la ventaja es para negras en función de las perspectivas de victoria de cada color.
+Durante el [[Aperturas#Análisis post-partida|análisis post-partida]], el ordenador asigna a cada posición una valoración numérica positiva si la ventaja es para blancas y negativa si la ventaja es para negras en función de las perspectivas de victoria de cada color.
 
 La evaluación de posiciones de ajedrez consiste justo en eso: medir cómo de buenas son las espectativas de cada jugador de cara a los siguientes movimientos antes de jugarlos. La diferencia de puntos de material es un factor a considerar, pero una posición con un desequilibrio de puntos puede estar equilibrada, indeterminada o incluso resultar favorable para el jugador en desventaja de material. 
 
@@ -23,7 +23,7 @@ Este vídeo da algunas ideas sobre cómo hacer planes en sus primeros 2 tips:
 
 <iframe width="450" height="253" src="https://www.youtube.com/embed/fGFl4GjVvrA" title="10 Chess Tips To CRUSH Everyone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Pero en general, una buena forma de reconocer la presencia o ausencia de planes durante una partida es: ¿puedo explicar con palabras qué pretendo conseguir con esta apertura / este movimiento / esta táctica? Al no poder formular planes claros estamos jugando de forma instintiva, reinventando la rueda y probablemente haciendo movimientos sub-óptimos (para eso existen las [[Estrategia/Curso intermedio/Aperturas#Bases de datos|bases de datos]] de aperturas y partidas enteras). Así, parte del estudio de aperturas es el estudio de la "filosofía" de la apertura, sus intenciones y planes implícitos. 
+Pero en general, una buena forma de reconocer la presencia o ausencia de planes durante una partida es: ¿puedo explicar con palabras qué pretendo conseguir con esta apertura / este movimiento / esta táctica? Al no poder formular planes claros estamos jugando de forma instintiva, reinventando la rueda y probablemente haciendo movimientos sub-óptimos (para eso existen las [[Aperturas#Bases de datos|bases de datos]] de aperturas y partidas enteras). Así, parte del estudio de aperturas es el estudio de la "filosofía" de la apertura, sus intenciones y planes implícitos. 
 
 Desde el momento en que la partida se desvía de la teoría de la apertura, o a la hora de evaluar la posición del mid o late game, Levy recomienda usar **la checklist**.
 
