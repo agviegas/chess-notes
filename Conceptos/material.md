@@ -29,6 +29,8 @@ Generalmente, cuando un jugador tiene **ventaja material**, una estrategia efect
 Cuanto más avanza la partida y más se simplifica la posición, más peso tiene la ventaja material. En un final de partida es un factor determinante.
 ```
 
+^3d2d52
+
 Por el contrario, el jugador que tiene una **desventaja material** tiene que intentar evitar intercambio y complejizar la posición para buscar oportunidades tácticas en las que recuperarse. 
 
 

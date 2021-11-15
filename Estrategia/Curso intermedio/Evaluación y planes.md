@@ -34,7 +34,7 @@ Todos los buenos jugadores siguen este proceso, ya sea mecánicamente o, en el c
 Cuando tu oponente hace un movimiento:
 1. ¿La pieza que se ha movido amenaza a algo? Ya sea de captura, jaque o de naturaleza posicional (amenazar una casilla, bloquear una de mis piezas).
 2. ¿Alguna de las otras piezas de mi rival amenazan a algo? Por ejemplo, ataques descubiertos. 
-3. Si es que no a todo, hago la misma lista para mí:
+3. Si es que no a todo, hago la misma lista para mí: ^4041f2
 	1. ¿Puedo dar jaque?
 	2. ¿Puedo comerme una pieza?
 	3. ¿Puedo atacar? 
