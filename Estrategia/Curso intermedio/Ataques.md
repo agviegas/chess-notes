@@ -1,6 +1,6 @@
 # Introducción
 Un ataque en ajedrez es una de estas dos cosas:
-1. Una iniciativa encabezada por peones, en las que los usas para romper las defensas del rival y abrir hueco para que tus piezas entren en su territorio, ya sea para conseguir ventaja de [[material]] y posición o directamente para dar jaque mate.
+1. Una iniciativa encabezada por peones, en la que los usas para romper las defensas del rival y abrir hueco para que tus piezas entren en su territorio, ya sea para conseguir ventaja de [[material]] y posición o directamente para dar jaque mate.
 2. Una incursión formada únicamente por piezas, a menudo involucrando sacrificios de piezas menores a cambio de posiciones agresivas. Propio del [ajedrez romántico](https://es.wikipedia.org/wiki/Escuela_rom%C3%A1ntica_de_ajedrez) y rara vez visto hoy en día.
 
 Nos centraremos en la primera variedad, coordinando nuestras piezas con la estructura de peones. 
